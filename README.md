@@ -8,6 +8,8 @@ iOS developer
 * 🧠  Learning various aspects of ML and AI
 * 🤝  I'm open to collaborating on iOS and AI projects
 
+### My CV: <a href="https://docs.google.com/document/d/1BVbH1g7tb4a0K8IMr8SxaUkBOmEzL5PZ/edit">Resume</a>
+
 ### Skills
 
 
@@ -17,5 +19,4 @@ iOS developer
 ### Socials
 <p align="left"> <a href="https://github.com/artemshyianov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/artem-shyianov-28574831/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### <p align="left"><a href="https://docs.google.com/document/d/1BVbH1g7tb4a0K8IMr8SxaUkBOmEzL5PZ/edit">Resume</a></p>
 
