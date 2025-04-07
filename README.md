@@ -2,7 +2,7 @@ Hi 👋 My name is Artem
 =======================
 iOS developer
 -------------------------------
-* 🌍  I'm based in Bar, Montenegro 🇲🇪
+* 🌍  I'm based in Bar, Montenegro 🇲🇪, Im ukrainian from Kiev 🇺🇦
 * 💼  Working at Freelance, Ex Grubhub
 * ✉️  You can contact me at [artem.shyianov@gmail.com](mailto:artem.shyianov@gmail.com)
 * 🧠  Learning various aspects of ML and AI
