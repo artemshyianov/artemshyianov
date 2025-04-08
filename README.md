@@ -2,7 +2,7 @@ Hi 👋 My name is Artem
 =======================
 iOS developer
 -------------------------------
-* 🌍  I'm ukrainian from Kiev 🇺🇦, currently based in EU 
+* 🌍  I'm Ukrainian from Kiev 🇺🇦, currently based in EU 🇪🇺
 * 💼  Working at Freelance, Ex Grubhub
 * ✉️  You can contact me at [artem.shyianov@gmail.com](mailto:artem.shyianov@gmail.com)
 * 🧠  Learning various aspects of ML and AI
