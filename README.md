@@ -3,7 +3,7 @@ Hi 👋 My name is Artem
 iOS developer
 -------------------------------
 * 🌍  I'm Ukrainian from Kiev 🇺🇦, currently based in EU 🇪🇺
-* 💼  Working at Freelance, Ex Grubhub
+* 💼  Ex Grubhub
 * ✉️  You can contact me at [artem.shyianov@gmail.com](mailto:artem.shyianov@gmail.com)
 * 🧠  Learning various aspects of ML and AI
 * 🤝  I'm open to collaborating on iOS and AI projects
@@ -11,9 +11,9 @@ iOS developer
 ### My CV: <a href="https://docs.google.com/document/d/1BVbH1g7tb4a0K8IMr8SxaUkBOmEzL5PZ/edit">Resume</a>
 
 ### Hobbies:
-* 🏊  Swimming
-* 🏔️ Hicking
-* 🐟  Fishing
+* Hackathons
+* Learn German
+* Contribute to opensource
 
 ### Skills
 
